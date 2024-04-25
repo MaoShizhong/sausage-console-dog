@@ -1,0 +1,22 @@
+{
+  "name": "sausage-console-dog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest tests/*"
+  },
+  "keywords": [
+    "console",
+    "dog",
+    "doggo",
+    "animal",
+    "woof",
+    "bark"
+  ],
+  "author": "MaoShizhong",
+  "license": "ISC",
+  "description": "A (subjectively) better way to log to the console, now with adjustable length of dog!",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
