@@ -2,6 +2,9 @@
   "name": "sausage-console-dog",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": ">=15.0.0"
+  },
   "scripts": {
     "test": "jest tests/*"
   },
