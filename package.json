@@ -17,6 +17,10 @@
     "bark"
   ],
   "author": "MaoShizhong",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaoShizhong/sausage-console-dog"
+  },
   "license": "ISC",
   "description": "A (subjectively) better way to log to the console, now with adjustable length of dog!",
   "devDependencies": {
